@@ -2,7 +2,7 @@
 
 GCPS (Grad-CAM Position Score) is a new criterion based on [Grad-CAM](https://arxiv.org/abs/1610.02391) to evaluate CNN recognition performance in radar signal intrapulse modulation recognition.
 
-This work will appear in IEEE Communications Letters
+This work will appear in IEEE Communications Letters.
 
 ## Denpendencies
 
@@ -12,4 +12,12 @@ This work will appear in IEEE Communications Letters
 4. GPU is not necessary
 
 We provide a radar signal dataset, you can also use tftb to generate by yourself.
+
+## Update log
+
+Ver1.0: Add basic code files and dataset. 
+
+## Working progress
+
+A brief of how to use the code.
 
