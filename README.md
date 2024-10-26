@@ -17,7 +17,3 @@ We provide a radar signal dataset, you can also use tftb to generate by yourself
 
 Ver1.0: Add basic code files and dataset. 
 
-## Working progress
-
-A brief of how to use the code.
-
